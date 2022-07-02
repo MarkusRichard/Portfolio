@@ -2,7 +2,7 @@
 
 ### Greetings, I'm <b>Oleksii Botushan aka @MarkusRichard</b>
 
-![Imgur](https://i.imgur.com/4U4lNZ6.jpg)
+![Imgur](https://i.imgur.com/cdFr4Fdm.jpg?2)
 
 -a <b>Senior Analyst</b> and <b>Researcher</b>
 
