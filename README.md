@@ -62,5 +62,5 @@
 *Hmu on:
 - Telegram ([@markusrichardofficial](https://t.me/markusrichardofficial))
 - Twitter ([@Markusricharddd](https://twitter.com/markusricharddd))
-- E-mail (oleksii.botushan.business@gmail.com)
 - LinkedIn ([Oleksii Botushan](https://www.linkedin.com/in/oleksii-botushan/))
+- E-mail (oleksii.botushan.business@gmail.com)
