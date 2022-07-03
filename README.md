@@ -8,7 +8,7 @@
 
 -Specializing in the <b>Crypto Market Analysis</b>, <b>On-Chain analysis</b>, <b>NFT</b>, and <b>DeFi</b>
 
--Creator of the <b>State of The Market</b> and <b>State of The NFT Market</b> (available for <b>[Berehynia NFT holders](https://opensea.io/collection/berehynianft)</b>)
+-Creator of the <b>State of The Market</b> and <b>State of The NFT Market</b> (available for <b>[DOUBLE TOP Squad members] (https://doubletop.gitbook.io/bot/start/chto-takoe-2top-squad)<b>) and <b>[Berehynia NFT holders](https://opensea.io/collection/berehynianft)</b>)
 
 -Learning <b>English</b>, and <b>Spanish</b>
 
@@ -24,7 +24,7 @@
 -Kherson State Maritime Academy, Bachelor’s degree, <b>Navigation</b> (2020)
 
 
-# <b>RECENT WORK HISTORY
+# <b>WORK HISTORY</b> 
 
 -<b>DOUBLE TOP</b> (Analyst and Researcher)
   
@@ -34,6 +34,8 @@
 ### Writing examples
 
 -[SOTM #43](https://2top.notion.site/SOTM-43-b78ed2928b584e75843ab97000e78a70)
+
+-[SOTNM #8](https://2top.notion.site/SOTNM-8-aad58d7558c1416cae1a56ba6b16cf0f)
   
 -[Staking NFTs](link)
   
@@ -47,4 +49,8 @@
 
 ***
 
-*Hmu on Telegram ([@markusrichardofficial](https://t.me/markusrichardofficial)), Twitter ([@Markusricharddd](https://twitter.com/markusricharddd)), E-mail oleksii.botushan.business@gmail.com
+*Hmu on:
+- Telegram ([@markusrichardofficial](https://t.me/markusrichardofficial))
+- Twitter ([@Markusricharddd](https://twitter.com/markusricharddd))
+- E-mail (oleksii.botushan.business@gmail.com)
+- LinkedIn ([Oleksii Botushan]https://www.linkedin.com/in/oleksii-botushan/))
