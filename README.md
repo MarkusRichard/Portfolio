@@ -8,7 +8,7 @@
 
 -Specializing in the <b>Crypto Market Analysis</b>, <b>On-Chain analysis</b>, <b>NFT</b>, and <b>DeFi</b>
 
--Creator of the <b>State of The Market</b> and <b>State of The NFT Market</b> (available for <b>[DOUBLE TOP Squad members] (https://doubletop.gitbook.io/bot/start/chto-takoe-2top-squad)<b>) and <b>[Berehynia NFT holders](https://opensea.io/collection/berehynianft)</b>)
+-Creator of the <b>State of The Market</b> and <b>State of The NFT Market</b> (available for <b>[DOUBLE TOP Squad members](https://doubletop.gitbook.io/bot/start/chto-takoe-2top-squad)</b> and <b>[Berehynia NFT holders](https://opensea.io/collection/berehynianft)</b>)
 
 -Learning <b>English</b>, and <b>Spanish</b>
 
