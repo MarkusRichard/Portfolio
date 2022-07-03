@@ -36,6 +36,12 @@
 -[SOTM #43](https://2top.notion.site/SOTM-43-b78ed2928b584e75843ab97000e78a70)
 
 -[SOTNM #8](https://2top.notion.site/SOTNM-8-aad58d7558c1416cae1a56ba6b16cf0f)
+
+-[Taxation of cryptoassets in Spain](https://teletype.in/@markusrichardofficial/cryptotaxesinspain)
+
+-[Tezos NFT Quick Guide](https://teletype.in/@markusrichardofficial/QuickGuidetoTezosNFT)
+
+-[Implications of announcements about ecosystem funds](https://teletype.in/@markusrichardofficial/GrowthFundsPA)
   
 -[Staking NFTs](link)
   
@@ -47,6 +53,9 @@
 -[5 steps to start your crypto career](https://2top.notion.site/5-0958865afc76438d95053d807228fcd1)
 
 -[Floaters by A.Hayes](https://2top.notion.site/dcfed72a86e34b1fa0882bd2afea64b9)
+
+-[Vaultification of DeFi](https://teletype.in/@markusrichardofficial/structuredproducts)
+
 
 ### Infographic examples 
 
