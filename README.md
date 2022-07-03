@@ -4,7 +4,7 @@
 
 ![Imgur](https://i.imgur.com/cdFr4Fdm.jpg?2)
 
--a <b>Senior Analyst</b> and <b>Researcher</b>
+-A <b>Senior Analyst</b> and <b>Researcher</b>
 
 -Specializing in the <b>Crypto Market Analysis</b>, <b>On-Chain analysis</b>, <b>NFT</b>, and <b>DeFi</b>
 
