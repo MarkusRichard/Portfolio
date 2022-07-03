@@ -45,6 +45,16 @@
 -[Scylla and Charybdis of modern money](https://2top.notion.site/cfd2d6e9a7ed414796b1f9e6843d5c1d)
 
 -[5 steps to start your crypto career](https://2top.notion.site/5-0958865afc76438d95053d807228fcd1)
+
+-[Floaters by A.Hayes](https://2top.notion.site/dcfed72a86e34b1fa0882bd2afea64b9)
+
+### Infographic examples 
+
+-[BTC drawdown from ATH](https://t.me/doubletop/3921)
+
+-[dApps 30d revenue](https://t.me/doubletop/3905)
+
+-[Losses of famous companies/countries](https://t.me/doubletop/3874)
   
 
 ***
@@ -53,4 +63,4 @@
 - Telegram ([@markusrichardofficial](https://t.me/markusrichardofficial))
 - Twitter ([@Markusricharddd](https://twitter.com/markusricharddd))
 - E-mail (oleksii.botushan.business@gmail.com)
-- LinkedIn ([Oleksii Botushan]https://www.linkedin.com/in/oleksii-botushan/))
+- LinkedIn ([Oleksii Botushan](https://www.linkedin.com/in/oleksii-botushan/))
