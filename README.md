@@ -16,7 +16,9 @@
 
 -Crypto holdings: BTC, ETH and some shitcoins
 
--NFT holdings:
+# <b>CV</b> 
+
+-Mine resume/CV can be found <b>[here](https://docs.google.com/document/d/1-7dL5RzOFez0DoRPec-iFwYsbBgwEIdj17kmD_WQbF4/edit?usp=sharing)</b> 
 
 
 # <b>EDUCATION</b> 
