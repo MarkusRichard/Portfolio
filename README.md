@@ -10,13 +10,13 @@
 
 -Creator of the <b>State of The Market</b> and <b>State of The NFT Market</b> (available for <b>[DOUBLE TOP Squad members](https://doubletop.gitbook.io/bot/start/chto-takoe-2top-squad)</b> and <b>[Berehynia NFT holders](https://opensea.io/collection/berehynianft)</b>)
 
+-Leading a <b>[DOUBLE TOP NFT](https://t.me/doubletop_nft)<b> Public channel and private NFT discord server <b>2TOP DAO<b>
+
 -Learning <b>English</b> and <b>Spanish</b>
 
 -Translating <b>articles</b> and <b>reports</b>
 
 -Crypto holdings: BTC, ETH and some shitcoins and NFT's
-
--Leading a <b>[DOUBLE TOP NFT](https://t.me/doubletop_nft)<b> Public channel and private NFT discord server <b>2TOP DAO<b>
 
 # <b>CV</b> 
 
