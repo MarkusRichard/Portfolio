@@ -45,9 +45,9 @@
 
 -[How to value cryptoprojects?](https://2top.notion.site/3a9732154bbc40c9a6d7f3950d7cde7e)
 
--<b>In Search of Alpha<b> article series [Part 1](https://2top.notion.site/1-14cd92e2f3d44c988cd0cc1903a08a1e), [Part 2](https://2top.notion.site/2-bbf1992ce6bd4939a73a35cb5f380286), [Part 3](https://2top.notion.site/3-977bfd765ce3466b9b5580cd61b33f5a)
+-In Search of Alpha article series [Part 1](https://2top.notion.site/1-14cd92e2f3d44c988cd0cc1903a08a1e), [Part 2](https://2top.notion.site/2-bbf1992ce6bd4939a73a35cb5f380286), [Part 3](https://2top.notion.site/3-977bfd765ce3466b9b5580cd61b33f5a)
 
--<b>Layer 2 airdrops<b> article series [Arbitrum](https://2top.notion.site/Arbitrum-1447c3abfc52484484a85ab946575798), [Sui](https://2top.notion.site/Sui-8d595427f2b5412abd8e3805239c5eb2), [zkSync](https://2top.notion.site/zkSync-1fcedf02503c4b3a975554e581737b8c), [LayerZero](https://2top.notion.site/Layer-Zero-6559dee5f1ec498c9d5998e34b51d939), [Optimism](https://2top.notion.site/Optimism-545c38c8f91a432db760f6a3a6cb8360), etc.
+-Layer 2 airdrops article series [Arbitrum](https://2top.notion.site/Arbitrum-1447c3abfc52484484a85ab946575798), [Sui](https://2top.notion.site/Sui-8d595427f2b5412abd8e3805239c5eb2), [zkSync](https://2top.notion.site/zkSync-1fcedf02503c4b3a975554e581737b8c), [LayerZero](https://2top.notion.site/Layer-Zero-6559dee5f1ec498c9d5998e34b51d939), [Optimism](https://2top.notion.site/Optimism-545c38c8f91a432db760f6a3a6cb8360), etc.
 
 -[How the FED became so powerful](https://2top.notion.site/b1abfa3ce6904d1093e94892a4c5bb02)
   
