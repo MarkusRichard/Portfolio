@@ -20,7 +20,7 @@
 
 # <b>CV</b> 
 
--Mine CV can be found <b>[here](https://docs.google.com/document/d/1-7dL5RzOFez0DoRPec-iFwYsbBgwEIdj17kmD_WQbF4/edit?usp=sharing)</b> 
+-Mine CV can be found <b>[here](https://drive.google.com/file/d/1NBqfojxUfJolOshhgcAIVViWPUOV2SCs/view?usp=sharing)</b> 
 
 
 # <b>EDUCATION</b> 
