@@ -72,6 +72,14 @@
 -[dApps blockchains support](https://tinted-stoplight-60e.notion.site/DEX-s-Aggregators-Chains-f9dc5e1b474744078cb4f54e120aec14)
 
 -[1 month TVL Change](https://tinted-stoplight-60e.notion.site/1-month-TVL-Change-ca05907760d54792a51b2dd44638fb84)
+
+
+### Web3 project research examples 
+
+-[DEFY](https://tinted-stoplight-60e.notion.site/DEFY-8a565d5c2d5a4772b6df82c8175b257a)
+
+-[Aleph Zero](https://tinted-stoplight-60e.notion.site/AZERO-e03519a85f614dffb8d121594d59bbc9)
+
   
 
 ***
