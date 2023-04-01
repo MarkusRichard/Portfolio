@@ -6,15 +6,17 @@
 
 -A <b>Senior Analyst</b> and <b>Content Creator/Writer</b>
 
--Specializing in the <b>Crypto Market Analysis</b>, <b>On-Chain analysis</b>, <b>Macroeconomy</b>, <b>NFT</b>, and <b>DeFi</b>
+-Specializing in the <b>Crypto Market Analysis</b>, <b>On-Chain analysis</b>, <b>Content creation</b>, <b>Macroeconomy</b>, <b>NFT</b>, <b>DeFi</b>
 
--Creator of the <b>State of The Market</b> and <b>State of The NFT Market</b> (available for <b>[DOUBLE TOP Squad members](https://doubletop.gitbook.io/bot/start/chto-takoe-2top-squad)</b> and <b>[Berehynia NFT holders](https://opensea.io/collection/berehynianft)</b>)
-
--Learning <b>English</b> and <b>Spanish</b>
+-Creating of the <b>State of The Market</b> and <b>State of The NFT Market</b>
 
 -Translating, compilating, aggregating <b>articles</b>, <b>reports</b>, etc.
 
--Prev. leaded a <b>[DOUBLE TOP NFT](https://t.me/doubletop_nft)<b> Public channel and private NFT discord server <b>2TOP DAO<b>
+-Researching <b>Web3 projects<b>
+
+-Leading public <b>social media<b> and managing <b>public chats<b>
+
+-Learning <b>English</b> and <b>Spanish</b>
 
 # <b>CV</b> 
 
@@ -28,7 +30,7 @@
 
 # <b>WORK HISTORY</b> 
 
--<b>DOUBLE TOP</b> (Analyst, Researcher, Content Creator, Writer)
+-<b>DOUBLE TOP</b> (Analyst, Researcher, Content Creator, Writer, Community Manager)
   
 
 # <b>PORTFOLIO SAMPLES</b>
