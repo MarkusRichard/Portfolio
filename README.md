@@ -65,11 +65,11 @@
 
 ### Infographic examples 
 
--[DEX volumes hit 9-month high](https://t.me/doubletop/5030)
+-[DEX volumes hit 9-month high](https://tinted-stoplight-60e.notion.site/DEX-Volumes-68994fe9ad814597826ccced6037f583)
 
--[dApps blockchains support](https://t.me/doubletop/4954)
+-[dApps blockchains support](https://tinted-stoplight-60e.notion.site/DEX-s-Aggregators-Chains-f9dc5e1b474744078cb4f54e120aec14)
 
--[Losses of famous companies/countries](https://t.me/doubletop/3874)
+-[1 month TVL Change](https://tinted-stoplight-60e.notion.site/1-month-TVL-Change-ca05907760d54792a51b2dd44638fb84)
   
 
 ***
