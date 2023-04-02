@@ -41,17 +41,17 @@
 
 -[SOTNM #34 (Eng.)](https://tinted-stoplight-60e.notion.site/SOTNM-34-Eng-b8f98bcd974a4cf5a78e3d62c08ece6d)
 
--[Who will earn on ARB?](https://2top.notion.site/ARB-b8e78c63789d4118b7d6a723bfda446f)
+-[Who will earn on ARB?](https://tinted-stoplight-60e.notion.site/Who-ll-earn-on-ARB-332af1a26f6b45048d64ec0a90129f90)
 
--[Staking of protocols native tokens](https://2top.notion.site/6dca0733ffab4377a9079149f88f26f8)
+-[Staking of protocols native tokens](https://tinted-stoplight-60e.notion.site/Protocols-native-token-staking-89e35bb0a1774cb3aac1ff45f41fef10)
 
--[How to value cryptoprojects?](https://2top.notion.site/3a9732154bbc40c9a6d7f3950d7cde7e)
+-[How to value cryptoprojects?](https://tinted-stoplight-60e.notion.site/How-to-evaluate-crypto-projects-583f4389e12a4d6f949750f07d05bdec)
 
--In Search of Alpha article series [Part 1](https://2top.notion.site/1-14cd92e2f3d44c988cd0cc1903a08a1e), [Part 2](https://2top.notion.site/2-bbf1992ce6bd4939a73a35cb5f380286), [Part 3](https://2top.notion.site/3-977bfd765ce3466b9b5580cd61b33f5a)
+-In Search of Alpha article series [Part 1](https://tinted-stoplight-60e.notion.site/In-search-of-alpha-a43c064b976949ff90efa841c92f8fbd), [Part 2](https://tinted-stoplight-60e.notion.site/In-search-of-alpha-2-526fcd1ff4924999a8af412e466e1ed5), [Part 3](https://tinted-stoplight-60e.notion.site/In-search-of-alpha-3-f087a967d5d64aef8f7cf3eeca924b3d)
 
--Layer 2 airdrops article series [Arbitrum](https://tinted-stoplight-60e.notion.site/Step-by-step-guide-on-Arbitrum-Airdrop-7f5635ca379b4fd68d0fed291c23109e), [Sui](https://tinted-stoplight-60e.notion.site/Step-by-step-guide-on-Sui-Airdrop-4648d5496033463bbe3d542bbd054747), [StarkNet](https://tinted-stoplight-60e.notion.site/Step-by-step-guide-on-StarkNet-airdrop-262229ec2c304c29bec3f0ea7ff4d678), [LayerZero](https://tinted-stoplight-60e.notion.site/Step-by-step-guide-on-LayerZero-Airdrop-74d4bb8683634007b4388d9440caba3c), [Optimism](https://tinted-stoplight-60e.notion.site/Optimism-NFTs-Quests-Guide-2e4a648e87b341d0ad200460450027b2), etc.
+-Layer 2 airdrops article series [Arbitrum](https://tinted-stoplight-60e.notion.site/Step-by-step-guide-on-Arbitrum-Airdrop-7f5635ca379b4fd68d0fed291c23109e), [Sui](https://tinted-stoplight-60e.notion.site/Step-by-step-guide-on-Sui-Airdrop-4648d5496033463bbe3d542bbd054747), [StarkNet](https://tinted-stoplight-60e.notion.site/Step-by-step-guide-on-StarkNet-airdrop-262229ec2c304c29bec3f0ea7ff4d678), [LayerZero](https://tinted-stoplight-60e.notion.site/Step-by-step-guide-on-LayerZero-Airdrop-74d4bb8683634007b4388d9440caba3c), [Optimism](https://tinted-stoplight-60e.notion.site/Optimism-NFTs-Quests-Guide-2e4a648e87b341d0ad200460450027b2).
 
--[How the FED became so powerful](https://2top.notion.site/b1abfa3ce6904d1093e94892a4c5bb02)
+-[How the FED became so powerful](https://tinted-stoplight-60e.notion.site/How-the-FED-became-so-powerful-14140f0f072f4a3188748807dc0dba50)
   
   
 ### Translation/Adaptation examples 
