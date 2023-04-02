@@ -37,7 +37,7 @@
 
 ### Writing examples
 
--[SOTM #83](https://2top.notion.site/SOTM-83-168c29226e8447c6ab0df531d0d180cd)
+-[SOTM #83 (Eng.)](https://tinted-stoplight-60e.notion.site/SOTM-83-Eng-99182d41c26343cc81c810dc749799f1)
 
 -[SOTNM #34](https://2top.notion.site/SOTNM-34-63b9ac917b46490e8c426ca07e2bb5e1)
 
