@@ -43,6 +43,8 @@
 
 -[Who will earn on ARB?](https://tinted-stoplight-60e.notion.site/Who-ll-earn-on-ARB-332af1a26f6b45048d64ec0a90129f90)
 
+-[zkSync technology](https://tinted-stoplight-60e.notion.site/zkSync-tech-6294966269064cc8919c4bdfe383fcbf)
+
 -[Staking of protocols native tokens](https://tinted-stoplight-60e.notion.site/Protocols-native-token-staking-89e35bb0a1774cb3aac1ff45f41fef10)
 
 -[How to value cryptoprojects?](https://tinted-stoplight-60e.notion.site/How-to-evaluate-crypto-projects-583f4389e12a4d6f949750f07d05bdec)
@@ -61,8 +63,6 @@
 -[5 steps to start your crypto career](https://2top.notion.site/5-0958865afc76438d95053d807228fcd1)
 
 -[Floaters by A.Hayes](https://2top.notion.site/dcfed72a86e34b1fa0882bd2afea64b9)
-
--[zkSync technology](https://2top.notion.site/zkSync-9da92947c0ce4e768045d7c5fdc9e652)
 
 
 ### Infographic examples 
