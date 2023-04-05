@@ -76,7 +76,7 @@
 
 ### Web3 project research examples 
 
--[DEFY](https://tinted-stoplight-60e.notion.site/DEFY-8a565d5c2d5a4772b6df82c8175b257a)
+-[DEFY](https://tinted-stoplight-60e.notion.site/DEFY-En-81a043b457db4af2b58cb0295523393e)
 
 -[Aleph Zero](https://tinted-stoplight-60e.notion.site/AZERO-e03519a85f614dffb8d121594d59bbc9)
 
